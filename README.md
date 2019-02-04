@@ -1,2 +1,2 @@
-# GarciaJC.github.io
+# garciajc.github.io
 Personal website
